@@ -1,7 +1,7 @@
 name: Kalinowski Photo
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4475681302137673
+typography_spectrum: 0.69807
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0c1732'
-    - '#fffee8'
-    - '#ff2d26'
-    - '#862c32'
-    - '#ff8b3f'
-  brandStrength: 0.6875
-  lightness: 0.3547032254282385
-  saturation: 0.2691349405795336
-  rhythmicContrast: 0.6984094453509897
+    - '#121214'
+    - '#d2d5e1'
+    - '#424146'
+    - '#909ab7'
+    - '#727c9b'
+  brandStrength: 0.875
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
