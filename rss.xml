@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kalinowski Photo]]></title>
         <description><![CDATA[Kalinowski Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kalinowski-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 00:10:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 00:10:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kalinowski-photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6c11279-9655-47ff-9fe7-2296340dfd2b.jpg">]]></description>
+            <link>https://thegrid.ai/kalinowski-photo/d50017e8-2aef-4bd1-acaa-8791b68cd9c6/index.html</link>
+            <guid isPermaLink="false">d50017e8-2aef-4bd1-acaa-8791b68cd9c6</guid>
+            <pubDate>Sat, 23 Jan 2016 00:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcaaacb-22ac-4040-8dde-57b98d8a9b17.jpg">]]></description>
-            <link>undefinedeb8aa249-04c1-4c48-9e7c-4b1b70706123/index.html</link>
+            <link>https://thegrid.ai/kalinowski-photo/eb8aa249-04c1-4c48-9e7c-4b1b70706123/index.html</link>
             <guid isPermaLink="false">eb8aa249-04c1-4c48-9e7c-4b1b70706123</guid>
             <pubDate>Sat, 23 Jan 2016 00:09:21 GMT</pubDate>
         </item>
